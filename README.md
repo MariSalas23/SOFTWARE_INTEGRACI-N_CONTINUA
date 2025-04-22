@@ -1,4 +1,4 @@
-**Nombre:** Juliana Moreno Carvajal, Santiago Navarro Cuy y Mariana Salas Gutiérrez
+**Nombres:** Juliana Moreno Carvajal, Santiago Navarro Cuy y Mariana Salas Gutiérrez
 
 # Taller de GitLab CI: Configuración de un Pipeline de Integración Continua
 
