@@ -1,6 +1,9 @@
+image: maven:3.8.4-openjdk-17
+
 stages:
   - build
   - test
+  
 
 build_job:
   stage: build
@@ -11,4 +14,4 @@ test_job:
   stage: test
   script:
     - echo "Running tests..."
-    - ./run_tests.sh
+    - mvn test
